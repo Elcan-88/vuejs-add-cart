@@ -9,3 +9,4 @@ new Vue({
   render: h => h(App)
 })
     
+This is new word
